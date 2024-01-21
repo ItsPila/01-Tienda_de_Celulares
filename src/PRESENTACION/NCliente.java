@@ -115,7 +115,7 @@ public class NCliente extends javax.swing.JInternalFrame {
 
     private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton1MouseClicked
         // TODO add your handling code here:
-        String reporte="C:\\YT\\P-P1\\Tienda-de-Celulares_G4\\src\\PRESENTACION\\ReporteCliente.jrxml";
+        String reporte="\\ReporteCliente.jrxml";
         
         JasperReport jr;
         //TRANSACCION

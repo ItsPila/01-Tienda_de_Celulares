@@ -365,7 +365,7 @@ public class Clientes extends javax.swing.JFrame {
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
         // TODO add your handling code here:
         
-        String reporte = "C:\\YT\\P-P1\\Tienda-de-Celulares_G4\\src\\PRESENTACION\\FacturaCliente.jrxml";
+        String reporte = "\\FacturaCliente.jrxml";
        
         // Verificar que todos los campos estén completos
         if (txtnombre.getText().isEmpty() || txtapellido.getText().isEmpty() || 

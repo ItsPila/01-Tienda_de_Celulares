@@ -117,7 +117,7 @@ public class RProductos extends javax.swing.JInternalFrame {
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         // TODO add your handling code here:
-        String reporte = "C:\\YT\\P-P1\\Tienda-de-Celulares_G4\\src\\PRESENTACION\\RProductos.jrxml";
+        String reporte = "\\RProductos.jrxml";
 
     try (Connection conectando = cc.getConexion()) {
         // Compilar el archivo de diseño JasperReport

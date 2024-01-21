@@ -151,7 +151,7 @@ public class REmpleado extends javax.swing.JInternalFrame {
     private void btngenerarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btngenerarMouseClicked
         // TODO add your handling code here:
         // Ruta al archivo de diseño del informe (JasperReport)
-    String reporte = "C:\\YT\\P-P1\\Tienda-de-Celulares_G4\\src\\PRESENTACION\\ReporteEmpleado.jrxml";
+    String reporte = "\\ReporteEmpleado.jrxml";
 
     try (Connection conectando = cc.getConexion()) {
         // Compilar el archivo de diseño JasperReport

@@ -19,8 +19,8 @@ public class Conexion {
         
         String conexionURL="jdbc:sqlserver://localhost:1433;"
                 +"database=DBTiendaCelulares;"
-                +"user=sa;"
-                +"password=alumno;";
+                +"user=;"
+                +"password=;";
         
         //TRANSACCION SQL
         
